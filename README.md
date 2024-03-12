@@ -3,8 +3,7 @@
 ## 🐍 Python Programming Videos and Materials! 
 
 **Start Learning with Our Python Course on YouTube** 🚀  
-👉 <a href="https://www.youtube.com/playlist?list=PL2hXNYim5xvpFvPZZJryKOv0CwHJ8-PgQ" target="_blank">Watch Now!</a>
-
+👉 [Watch Now!](https://www.youtube.com/playlist?list=PL2hXNYim5xvpFvPZZJryKOv0CwHJ8-PgQ)
 
 **Exclusive Download Link** 📂  
 👉 [Grab Your Materials Here!](https://drive.google.com/drive/folders/1kxto__WqDuqSBX8HfJ2aV1h-ez0w8LxG)
