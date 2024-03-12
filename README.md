@@ -1,6 +1,6 @@
 # YouTube Course Repository! 🌟🎓📺
 
-## 🐍 Python Programming Videos and Materials! 
+## <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/> Python Programming for Data Science
 
 **Start Learning with Our Python Course on YouTube** 🚀  
 👉 [Watch Now!](https://www.youtube.com/playlist?list=PL2hXNYim5xvpFvPZZJryKOv0CwHJ8-PgQ)
@@ -9,8 +9,7 @@
 👉 [Grab Your Materials Here!](https://drive.google.com/drive/folders/1kxto__WqDuqSBX8HfJ2aV1h-ez0w8LxG)
 
 ---
-
-## 🎓 SQL Course Videos and Materials! 📚
+## <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="MySQL" width="60" height="60"/> SQL Videos and Materials! 📚
 
 **Dive Into SQL with Our Comprehensive YouTube Course** 🌐  
 🎥 [Start Watching Now!](https://www.youtube.com/playlist?list=PL2hXNYim5xvrxfNc-vKQufysrw-KK1qDf)
@@ -19,7 +18,7 @@
 📥 [Download Your Materials Here!](https://drive.google.com/drive/folders/1GpZdVHT1_Mqh2OHDmm_iHuXOFw6Q4RBD?usp=drive_link)
 
 ---
-## 📈 Explore Power BI Resources! 📚
+## <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="PowerBI" width="50" height="50"/>  Explore Power BI Resources! 📚
 
 **Discover Video Tutorials** 🌍  
 🎬 [Click Here to Watch!](https://www.youtube.com/playlist?list=PL2hXNYim5xvqW59QZ-6VX39AqTvKCoWvs)
