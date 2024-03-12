@@ -9,7 +9,7 @@
 👉 [Grab Your Materials Here!](https://drive.google.com/drive/folders/1kxto__WqDuqSBX8HfJ2aV1h-ez0w8LxG)
 
 ---
-## <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="MySQL" width="60" height="60"/> SQL Videos and Materials! 
+## <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg" alt="MySQL" width="50" height="60">SQL Videos and Materials! 
 
 **Dive Into SQL with Our Comprehensive YouTube Course**  
 🎥 [Start Watching Now!](https://www.youtube.com/playlist?list=PL2hXNYim5xvrxfNc-vKQufysrw-KK1qDf)
