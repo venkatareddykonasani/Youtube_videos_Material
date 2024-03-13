@@ -27,7 +27,6 @@
 📩 [Get Your Resources Here!](https://drive.google.com/open?id=1YzWxVHZr_FTEjEPxG3SiVnpLyyw3htoX&usp=drive_fs)
 
 ---
----
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logistic-curve.png" alt="ML" width="50" height="50"/>  Machine Learning Videos! 
 
 **Discover Video Tutorials**   
@@ -35,5 +34,7 @@
 
 **Access Datasets & Study Materials**   
 📩 [Get Your Resources Here!](https://github.com/venkatareddykonasani/book-machine-learning-and-deep-learning-using-python-and-tensorflow)
+
+---
 
 Happy Learning! 💻✨
