@@ -36,5 +36,13 @@
 📩 [Get Your Resources Here!](https://github.com/venkatareddykonasani/book-machine-learning-and-deep-learning-using-python-and-tensorflow)
 
 ---
+## <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="150" height="40"/>  Dive Into Tableau Learning Resources!
 
+**Watch Video Tutorials**   
+📺 [Tap to Start Watching!](https://www.youtube.com/playlist?list=PL2hXNYim5xvpfgxRQJvCVA-i0IfxRMXCy)
+
+**Grab Datasets & Learning Materials**   
+📚 [Access Your Materials Here!](https://drive.google.com/drive/folders/1xzSKt9VuiqXKOIIOTIvkyEZrYWB55sC0?usp=sharing)
+
+---
 Happy Learning! 💻✨
