@@ -45,4 +45,14 @@
 📚 [Access Your Materials Here!](https://drive.google.com/drive/folders/1xzSKt9VuiqXKOIIOTIvkyEZrYWB55sC0?usp=sharing)
 
 ---
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/1024px-Apache_Hive_logo.svg.png" alt="Hive" width="50" height="50"/>  Hive Tutorials
+
+**Watch Video Tutorials**   
+🎥 [Tap to Start Watching!](https://www.youtube.com/playlist?list=PL2hXNYim5xvovC9PSlTzOBVY6wlTezmG_)
+
+**Datasets and Code**   
+📥 [Access Your Materials Here!](https://github.com/venkatareddykonasani/Datasets/tree/master/Hive_Datasets_Code)
+
+---
+
 Happy Learning! 💻✨
