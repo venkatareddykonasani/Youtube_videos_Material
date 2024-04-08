@@ -12,7 +12,7 @@
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg" alt="MySQL" width="50" height="60">SQL Videos and Materials! 
 
 **Dive Into SQL with Our Comprehensive YouTube Course**  
-🎥 [Start Watching Now!](https://www.youtube.com/playlist?list=PL2hXNYim5xvrxfNc-vKQufysrw-KK1qDf)
+🎬 [Start Watching Now!](https://www.youtube.com/playlist?list=PL2hXNYim5xvrxfNc-vKQufysrw-KK1qDf)
 
 **Your Exclusive Resource Hub**   
 📥 [Download Your Materials Here!](https://drive.google.com/drive/folders/1GpZdVHT1_Mqh2OHDmm_iHuXOFw6Q4RBD?usp=drive_link)
@@ -42,7 +42,7 @@
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="150" height="40"/>  Dive Into Tableau Learning Resources!
 
 **Watch Video Tutorials**   
-📺 [Tap to Start Watching!](https://www.youtube.com/playlist?list=PL2hXNYim5xvpfgxRQJvCVA-i0IfxRMXCy)
+🎬 [Tap to Start Watching!](https://www.youtube.com/playlist?list=PL2hXNYim5xvpfgxRQJvCVA-i0IfxRMXCy)
 
 **Grab Datasets & Learning Materials**   
 📥 [Access Your Materials Here!](https://drive.google.com/drive/folders/1xzSKt9VuiqXKOIIOTIvkyEZrYWB55sC0?usp=sharing)
@@ -54,7 +54,7 @@
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/1024px-Apache_Hive_logo.svg.png" alt="Hive" width="50" height="50"/>  Hive Tutorials
 
 **Watch Video Tutorials**   
-🎥 [Tap to Start Watching!](https://www.youtube.com/playlist?list=PL2hXNYim5xvovC9PSlTzOBVY6wlTezmG_)
+🎬 [Tap to Start Watching!](https://www.youtube.com/playlist?list=PL2hXNYim5xvovC9PSlTzOBVY6wlTezmG_)
 
 **Datasets and Code**   
 📥 [Access Your Materials Here!](https://github.com/venkatareddykonasani/Datasets/tree/master/Hive_Datasets_Code)
