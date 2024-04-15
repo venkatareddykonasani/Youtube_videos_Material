@@ -40,7 +40,7 @@
 📥 [Get Your Resources Here!](https://github.com/venkatareddykonasani/book-machine-learning-and-deep-learning-using-python-and-tensorflow)
 
 ---
-## <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logistic-curve.png" alt="DL" width="50" height="50"/>  Deep Learning Videos! 
+## <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Artificial_neural_network.svg" alt="DL" width="50" height="50"/>  Deep Learning Videos! 
 
 **Discover Video Tutorials**   
 🎬 [Click Here to Watch!](https://www.youtube.com/playlist?list=PL2hXNYim5xvp8zQb-vAVxvTzudNiRIkjQ)
