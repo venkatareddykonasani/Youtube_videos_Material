@@ -26,9 +26,10 @@
 **Access Datasets & Study Materials**   
 📩 [Get Your Resources Here!](https://drive.google.com/open?id=1YzWxVHZr_FTEjEPxG3SiVnpLyyw3htoX&usp=drive_fs)
 
-**Assignments**   
-📚 [Assignment Questions](https://github.com/venkatareddykonasani/Assignments/tree/main/Power_BI_Assignments)
+**Assignments**\
+📚 [Assignment Questions](https://github.com/venkatareddykonasani/Assignments/tree/main/Power_BI_Assignments)\
 📚 [Assignment Solutions](https://github.com/venkatareddykonasani/Assignments/tree/main/Power_BI_Assignment_Solutions)
+
 ---
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logistic-curve.png" alt="ML" width="50" height="50"/>  Machine Learning Videos! 
 
