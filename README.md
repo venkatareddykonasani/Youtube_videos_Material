@@ -40,6 +40,16 @@
 📥 [Get Your Resources Here!](https://github.com/venkatareddykonasani/book-machine-learning-and-deep-learning-using-python-and-tensorflow)
 
 ---
+## <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logistic-curve.png" alt="DL" width="50" height="50"/>  Deep Learning Videos! 
+
+**Discover Video Tutorials**   
+🎬 [Click Here to Watch!](https://www.youtube.com/playlist?list=PL2hXNYim5xvp8zQb-vAVxvTzudNiRIkjQ)
+
+**Access Datasets & Study Materials**   
+📥 [Get Your Resources Here!](https://github.com/venkatareddykonasani/Class_Materials/tree/main/DL_Class_Files)
+
+---
+
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="150" height="40"/>  Dive Into Tableau Learning Resources!
 
 **Watch Video Tutorials**   
