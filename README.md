@@ -50,7 +50,7 @@
 
 **Assignments**   
 📚 [Assignment Questions](https://github.com/venkatareddykonasani/Assignments/tree/main/Tableau_Assignments)
-📚 [Assignment Solutions](https://github.com/venkatareddykonasani/Assignments/tree/main/Power_BI_Assignment_Solutions)
+
 
 ---
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/1024px-Apache_Hive_logo.svg.png" alt="Hive" width="50" height="50"/>  Hive Tutorials
