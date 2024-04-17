@@ -31,6 +31,14 @@
 📚 [Assignment Solutions](https://github.com/venkatareddykonasani/Assignments/tree/main/Power_BI_Assignment_Solutions)
 
 ---
+## <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logistic-curve.png" alt="Basic Statistics" width="50" height="50"/>  Basic Statistics for Learning ML
+**Discover Video Tutorials**   
+🎬 [Click Here to Watch!](https://www.youtube.com/playlist?list=PL2hXNYim5xvqC2UUntKgkXctjzuuYYsiL)
+
+**Access Datasets & Study Materials**   
+📥 [Get Your Resources Here!](https://github.com/venkatareddykonasani/book-machine-learning-and-deep-learning-using-python-and-tensorflow)
+
+---
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logistic-curve.png" alt="ML" width="50" height="50"/>  Machine Learning Videos! 
 
 **Discover Video Tutorials**   
