@@ -31,7 +31,7 @@
 📚 [Assignment Solutions](https://github.com/venkatareddykonasani/Assignments/tree/main/Power_BI_Assignment_Solutions)
 
 ---
-## <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Boxplot.svg" alt="Basic Statistics" width="50" height="50"/>  Basic Statistics 
+## <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Circle-icons-bar-chart.svg" width="50" height="50"/>  Basic Statistics 
 **Discover Video Tutorials**   
 🎬 [Click Here to Watch!](https://www.youtube.com/playlist?list=PL2hXNYim5xvqC2UUntKgkXctjzuuYYsiL)
 
