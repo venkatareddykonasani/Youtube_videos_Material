@@ -47,6 +47,9 @@
 **Access Datasets & Study Materials**   
 📥 [Get Your Resources Here!](https://github.com/venkatareddykonasani/book-machine-learning-and-deep-learning-using-python-and-tensorflow)
 
+**ML Projects**\
+📚 [Projects and Solutions](https://github.com/venkatareddykonasani/jobs/blob/main/ML_DL_Project_Solutions.md)
+
 ---
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Artificial_neural_network.svg" alt="DL" width="50" height="50"/>  Deep Learning Videos! 
 
