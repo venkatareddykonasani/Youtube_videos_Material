@@ -50,6 +50,9 @@
 **ML Projects**\
 📚 [Projects and Solutions](https://github.com/venkatareddykonasani/jobs/blob/main/ML_DL_Project_Solutions.md)
 
+**ML Interview Questions**\
+🎬 [Click Here to Watch!](https://www.youtube.com/playlist?list=PL2hXNYim5xvrvNbROVvoCoXipRTi52tBk)
+
 ---
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Artificial_neural_network.svg" alt="DL" width="50" height="50"/>  Deep Learning Videos! 
 
