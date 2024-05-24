@@ -45,7 +45,7 @@
 🎬 [Click Here to Watch!](https://www.youtube.com/playlist?list=PL2hXNYim5xvoiCqoy8dDZ9kRN7siVFTF6)
 
 **Access Datasets & Study Materials**   
-📥 [Get Your Resources Here!](https://github.com/venkatareddykonasani/book-machine-learning-and-deep-learning-using-python-and-tensorflow)
+📥 [Get Your Resources Here!](https://github.com/venkatareddykonasani/ML_Class_files)
 
 **ML Projects**\
 📚 [Projects and Solutions](https://github.com/venkatareddykonasani/jobs/blob/main/ML_DL_Project_Solutions.md)
