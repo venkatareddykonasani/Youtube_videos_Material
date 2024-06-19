@@ -1,5 +1,15 @@
 #  <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="YouTube" width="50" height="50"/> YouTube Course Repository!
 
+## <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Dall-e_3_%28jan_%2724%29_artificial_intelligence_icon.png" alt="GenAI" width="40" height="40"/> GenAI and LLMs Course
+
+**YouTube Videos**   
+👉 [Watch Now!](https://www.youtube.com/playlist?list=PL2hXNYim5xvop-LH93T2P75Y-09GIyHG6)
+
+**Materials Download Link**   
+👉 [Grab Your Materials Here!](https://drive.google.com/drive/folders/1GPffPe3X9dGFvIjW8d2nDLVDboZU2eqS?usp=sharing)
+
+---
+
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/> Python Programming for Data Science
 
 **Start Learning with Our Python Course on YouTube**   
