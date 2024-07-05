@@ -9,7 +9,7 @@
 👉 [Grab Your Materials Here!](https://drive.google.com/drive/folders/1GPffPe3X9dGFvIjW8d2nDLVDboZU2eqS?usp=sharing)
 
 **Assignments**\
-📚 [Assignment Questions](https://github.com/venkatareddykonasani/Assignments/tree/main/GenAI_Assignments)\
+📚 [Assignment Questions](https://github.com/venkatareddykonasani/Assignments/tree/main/GenAI_Assignments)
 
 ---
 
