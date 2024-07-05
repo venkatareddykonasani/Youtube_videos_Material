@@ -8,6 +8,10 @@
 **Materials Download Link**   
 👉 [Grab Your Materials Here!](https://drive.google.com/drive/folders/1GPffPe3X9dGFvIjW8d2nDLVDboZU2eqS?usp=sharing)
 
+**Assignments**\
+📚 [Assignment Questions](https://github.com/venkatareddykonasani/Assignments/tree/main/Power_BI_Assignments)\
+📚 [Assignment Solutions](https://github.com/venkatareddykonasani/Assignments/tree/main/Power_BI_Assignment_Solutions)
+
 ---
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/> Python Programming for Data Science
