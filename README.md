@@ -24,6 +24,9 @@
 **Exclusive Download Link**   
 👉 [Grab Your Materials Here!](https://drive.google.com/drive/folders/1kxto__WqDuqSBX8HfJ2aV1h-ez0w8LxG)
 
+**Interview Questions**   
+👉 [Access Here!](https://drive.google.com/drive/folders/1kxto__WqDuqSBX8HfJ2aV1h-ez0w8LxG)
+
 ---
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg" alt="MySQL" width="50" height="60">SQL Videos and Materials! 
 
