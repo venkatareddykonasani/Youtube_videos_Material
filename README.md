@@ -18,7 +18,7 @@
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Noun_Project_scatter_graph_icon_675164_cc.svg" alt="ML" width="50" height="50"/>  Machine Learning Videos! 
 
 **Discover Video Tutorials**   
-🎬 [Click Here to Watch!](https://www.youtube.com/playlist?list=PL2hXNYim5xvop-LH93T2P75Y-09GIyHG6)
+🎬 [Click Here to Watch!](https://www.youtube.com/playlist?list=PL2hXNYim5xvpbtGR1C2dgAGCtdnhrZNJ-)
 
 **Access Datasets & Study Materials**   
 📥 [Get Your Resources Here!](https://github.com/venkatareddykonasani/ML_Class_files)
