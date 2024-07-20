@@ -15,6 +15,21 @@
 👉 [Try Now!](https://www.youtube.com/playlist?list=PL2hXNYim5xvq2_aDfpjDnCKdwkLnlKPtR)
 
 ---
+## <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Noun_Project_scatter_graph_icon_675164_cc.svg" alt="ML" width="50" height="50"/>  Machine Learning Videos! 
+
+**Discover Video Tutorials**   
+🎬 [Click Here to Watch!](https://www.youtube.com/playlist?list=PL2hXNYim5xvop-LH93T2P75Y-09GIyHG6)
+
+**Access Datasets & Study Materials**   
+📥 [Get Your Resources Here!](https://github.com/venkatareddykonasani/ML_Class_files)
+
+**ML Projects**\
+📚 [Projects and Solutions](https://github.com/venkatareddykonasani/jobs/blob/main/ML_DL_Project_Solutions.md)
+
+**ML Interview Questions**\
+🎬 [Click Here to Watch!](https://www.youtube.com/playlist?list=PL2hXNYim5xvrvNbROVvoCoXipRTi52tBk)
+
+---
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/> Python Programming for Data Science
 
@@ -56,21 +71,6 @@
 
 **Access Datasets & Study Materials**   
 📥 [Get Your Resources Here!](https://github.com/venkatareddykonasani/book-machine-learning-and-deep-learning-using-python-and-tensorflow)
-
----
-## <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Noun_Project_scatter_graph_icon_675164_cc.svg" alt="ML" width="50" height="50"/>  Machine Learning Videos! 
-
-**Discover Video Tutorials**   
-🎬 [Click Here to Watch!](https://www.youtube.com/playlist?list=PL2hXNYim5xvoiCqoy8dDZ9kRN7siVFTF6)
-
-**Access Datasets & Study Materials**   
-📥 [Get Your Resources Here!](https://github.com/venkatareddykonasani/ML_Class_files)
-
-**ML Projects**\
-📚 [Projects and Solutions](https://github.com/venkatareddykonasani/jobs/blob/main/ML_DL_Project_Solutions.md)
-
-**ML Interview Questions**\
-🎬 [Click Here to Watch!](https://www.youtube.com/playlist?list=PL2hXNYim5xvrvNbROVvoCoXipRTi52tBk)
 
 ---
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Artificial_neural_network.svg" alt="DL" width="50" height="50"/>  Deep Learning Videos! 
