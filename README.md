@@ -39,6 +39,9 @@
 **Exclusive Download Link**   
 👉 [Grab Your Materials Here!](https://drive.google.com/drive/folders/1kxto__WqDuqSBX8HfJ2aV1h-ez0w8LxG)
 
+**Assignments**\
+📚 [Assignment Questions](https://drive.google.com/drive/folders/1_rlK7w7XvihlA9VakPkVuLz5PkgrbnGi?usp=sharing)
+
 **Interview Questions**   
 👉 [Access Here!](https://github.com/venkatareddykonasani/jobs/blob/main/Python_interview_Questions_Answers.ipynb)
 
